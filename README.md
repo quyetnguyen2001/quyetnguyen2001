@@ -17,3 +17,7 @@ My name is Quyet Nguyen. I am an M.Sc. in Computer Science, majoring in Artifici
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/quyetnguyen2001"><img src="https://github-readme-stats.vercel.app/api?username=quyetnguyen2001&show_icons=true&hide=prs,issues,contribs&title_color=3382ed&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&show_icons=true" alt="quyetnguyen2001's GitHub stats" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/quyetnguyen2001/Facemask-Detection-with-YOLO-v5" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=quyetnguyen2001&repo=Facemask-Detection-with-YOLO-v5&title_color=3382ed&text_color=ffffff&icon_color=444e59&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
